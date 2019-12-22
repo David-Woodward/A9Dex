@@ -1,3 +1,4 @@
+![](images/ic_launcher.png)
 # A9Dex - A Detailed Asphalt 9: Legends Guide
 
 [![Download](https://img.shields.io/badge/Download-Latest%20APK-blue.svg)](https://www.dropbox.com/s/z4yvtcn2hh4z56u/A9Dex_1.14.apk?dl=1)
