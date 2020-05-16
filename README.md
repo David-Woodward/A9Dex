@@ -1,7 +1,7 @@
 ![](images/ic_launcher.png)
 # A9Dex - A Detailed Asphalt 9: Legends Guide
 
-[![Download](https://img.shields.io/badge/Download-Latest%20APK-blue.svg)](https://www.dropbox.com/s/z4yvtcn2hh4z56u/A9Dex_1.14.apk?dl=1)
+[![Download](https://img.shields.io/badge/Download-Latest%20APK-blue.svg)](https://github.com/adnyey/A9Dex/releases/download/1.14/A9Dex_1.14.apk)
 ![Size](https://img.shields.io/badge/Size-3.41%20MB-lightgrey.svg)
 [![Licence](https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Discord](https://img.shields.io/badge/Discord-Join-blue.svg)](https://discord.gg/aEhap7P)
